@@ -1,0 +1,2 @@
+# Online-job-posting-data-wrangling
+In the project we will be performing three steps of  the data wrangling process. We will be using a dataset of 19,000 online job posts from 2004 to 2015 that were posted through an Armenian human resource portal. It is hosted on Kaggle website. The dataset is dirty and messy to perform gathering, then assessing, and then cleaning our data, which are our three core steps in the data wrangling process.  
